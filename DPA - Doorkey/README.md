@@ -38,3 +38,22 @@ Remember to change the location of the **policy_part_b.npy** file in this functi
 
 ## 5. **if __name__ == '__main__'**
 Calls the coressponding problem parts a & b
+
+# Results
+
+|                                     |                                        |                                        |                                        |                                        |
+|-------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| ![best](gif/doorkey-5x5-normal.gif) | ![bestvid](gif/doorkey-6x6-direct.gif) | ![bestvid](gif/doorkey-6x6-normal.gif) |![bestvid](gif/doorkey-6x6-shortcut.gif)|![bestvid](gif/doorkey-6x6-shortcut.gif)|
+| ![best](gif/DoorKey-8x8_01.gif)     | ![bestvid](gif/DoorKey-8x8_02.gif)     | ![bestvid](gif/DoorKey-8x8_03.gif)     |![bestvid](gif/DoorKey-8x8_04.gif)      |![bestvid](gif/DoorKey-8x8_05.gif)      |
+| ![best](gif/DoorKey-8x8_06.gif)     | ![bestvid](gif/DoorKey-8x8_07.gif)     | ![bestvid](gif/DoorKey-8x8_08.gif)     |![bestvid](gif/DoorKey-8x8_09.gif)      |![bestvid](gif/DoorKey-8x8_10.gif)      |
+| ![best](gif/DoorKey-8x8_11.gif)     | ![bestvid](gif/DoorKey-8x8_12.gif)     | ![bestvid](gif/DoorKey-8x8_13.gif)     |![bestvid](gif/DoorKey-8x8_14.gif)      |![bestvid](gif/DoorKey-8x8_15.gif)      |
+| ![best](gif/DoorKey-8x8_16.gif)     | ![bestvid](gif/DoorKey-8x8_17.gif)     | ![bestvid](gif/DoorKey-8x8_18.gif)     |![bestvid](gif/DoorKey-8x8_19.gif)      |![bestvid](gif/DoorKey-8x8_20.gif)      |
+| ![best](gif/DoorKey-8x8_21.gif)     | ![bestvid](gif/DoorKey-8x8_22.gif)     | ![bestvid](gif/DoorKey-8x8_23.gif)     |![bestvid](gif/DoorKey-8x8_24.gif)      |![bestvid](gif/DoorKey-8x8_25.gif)      |
+| ![best](gif/DoorKey-8x8_26.gif)     | ![bestvid](gif/DoorKey-8x8_27.gif)     | ![bestvid](gif/DoorKey-8x8_28.gif)     |![bestvid](gif/DoorKey-8x8_29.gif)      |![bestvid](gif/DoorKey-8x8_30.gif)      |
+| ![best](gif/DoorKey-8x8_31.gif)     | ![bestvid](gif/DoorKey-8x8_32.gif)     | ![bestvid](gif/DoorKey-8x8_33.gif)     |![bestvid](gif/DoorKey-8x8_34.gif)      |![bestvid](gif/DoorKey-8x8_35.gif)      |
+| ![best](gif/DoorKey-8x8_36.gif)     | ![bestvid](gif/doorkey-8x8-direct.gif) | ![bestvid](gif/doorkey-8x8-normal.gif) |![bestvid](gif/doorkey-8x8-shortcut.gif)| |
+
+
+
+
+
