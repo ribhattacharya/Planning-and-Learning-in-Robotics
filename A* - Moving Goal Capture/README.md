@@ -43,15 +43,15 @@ class containing functions for the A* path finding algorithm
 Calls the required functions for computing the optimal path using A*
 
 # Results
-|        GIF            |Path                   |
-|-----------------------|-----------------------|
-|![bestvid](gifs/0.gif) |![Fig1](results/0.png) |
-|![bestvid](gifs/1.gif) |![Fig1](results/0.png) |
-|![bestvid](gifs/1b.gif)|![Fig1](results/0.png) |
-|![bestvid](gifs/2.gif) |![Fig1](results/0.png) |
-|![bestvid](gifs/3.gif) |![Fig1](results/0.png) |
-|![bestvid](gifs/3b.gif)|![Fig1](results/0.png) |
-|![bestvid](gifs/3c.gif)|![Fig1](results/0.png) |
-|![bestvid](gifs/4.gif) |![Fig1](results/0.png) |
-|![bestvid](gifs/5.gif) |![Fig1](results/0.png) |
-|![bestvid](gifs/6.gif) |![Fig1](results/0.png) |
+|        GIF            |Path                    |
+|-----------------------|------------------------|
+|![bestvid](gifs/0.gif) |![Fig1](results/0.png)  |
+|![bestvid](gifs/1.gif) |![Fig2](results/1.png)  |
+|![bestvid](gifs/1b.gif)|![Fig3](results/1b.png) |
+|![bestvid](gifs/2.gif) |![Fig4](results/2.png)  |
+|![bestvid](gifs/3.gif) |![Fig5](results/3.png)  |
+|![bestvid](gifs/3b.gif)|![Fig6](results/3b.png) |
+|![bestvid](gifs/3c.gif)|![Fig7](results/3c.png) |
+|![bestvid](gifs/4.gif) |![Fig8](results/4.png)  |
+|![bestvid](gifs/5.gif) |![Fig9](results/5.png)  |
+|![bestvid](gifs/6.gif) |![Fig10](results/6.png) |
