@@ -45,8 +45,12 @@ Calls the required functions for computing the optimal path using A*
 # Results
 |                       |                        |
 |-----------------------|------------------------|
-|![best](gifs/0.gif)    | ![bestvid](gifs/1.gif) | 
+|![bestvid](gifs/0.gif)    | ![bestvid](gifs/1.gif) | 
+
 |![bestvid](gifs/1b.gif)|![bestvid](gifs/2.gif)  |
-|![bestvid](gifs/3.gif) |![best](gifs/3b.gif)    |
+
+|![bestvid](gifs/3.gif) |![bestvid](gifs/3b.gif)    |
+
 |![bestvid](gifs/3c.gif)| ![bestvid](gifs/4.gif) |
+
 |![bestvid](gifs/5.gif) |![bestvid](gifs/6.gif)  |
