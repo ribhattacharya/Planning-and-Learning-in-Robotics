@@ -7,3 +7,6 @@ Projects related to path planning and learning algorithms like Dynamic Programmi
 
 ## Moving goal capture using A* algorithm
 - Implemented a weighted A* algorithm to intercept a moving target in an environment with obstacles
+
+## Optimal control for trajectory tracking
+- Solved a discounted infinite horizon stochastic optimal control problem using a CEC controller, which converts it into a deterministic problem, that can be solved effectively
