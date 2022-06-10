@@ -30,4 +30,8 @@ Initialize all the variables/parameters that are required by the CEC controller 
 - INPUT:  Current iteration, current error state
 - OUTPUT: Control input calculated according to the CEC
 
-
+# Results
+|        GIF                         |Trajectory                   |
+|------------------------------------|-----------------------------|
+|![bestvid](results/with_obs.gif)    |![Fig1](results/res_13.png)  |
+|![bestvid](results/without_obs.gif) |![Fig2](results/res_15.png)  |
